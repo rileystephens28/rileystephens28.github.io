@@ -28,7 +28,7 @@
 }
 
 nav {
-  background-color: #2371b7;
+  /*background-color: #2371b7;*/
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(76, 162, 232)), to(rgb(35, 113, 183)));
 	background-image: -webkit-linear-gradient(top, rgb(76, 162, 232), rgb(35, 113, 183));
 	background-image: -moz-linear-gradient(top, rgb(76, 162, 232), rgb(35, 113, 183));
